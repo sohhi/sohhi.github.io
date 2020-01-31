@@ -7,16 +7,80 @@
     </url>
 
     <url>
-        <loc>http://yoursite-url/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8Bhexo%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</loc>
-        <lastmod>2020-01-23T09:23:26.877Z</lastmod>
+        <loc>http://yoursite-url/C-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0C2/</loc>
+        <lastmod>2020-01-31T14:54:42.299Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>http://yoursite-url/hexo-theme-beantech/</loc>
-        <lastmod>2020-01-23T09:08:55.819Z</lastmod>
+        <loc>http://yoursite-url/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1C1/</loc>
+        <lastmod>2020-01-31T08:28:34.790Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/C-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0C1/</loc>
+        <lastmod>2020-01-31T08:25:53.214Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1C2/</loc>
+        <lastmod>2020-01-31T08:25:22.853Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/Mac%E4%B8%8B%E7%94%9F%E6%88%90SSH-key%E5%B9%B6%E4%B8%8EGitHub%E5%85%B3%E8%81%94/</loc>
+        <lastmod>2020-01-30T09:55:50.515Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/Mybatis%E5%AD%A6%E4%B9%A0day1/</loc>
+        <lastmod>2020-01-30T09:51:02.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/MySQLWorkbench%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</loc>
+        <lastmod>2020-01-30T08:59:54.315Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/Spring%E5%AD%A6%E4%B9%A0day1/</loc>
+        <lastmod>2020-01-30T08:39:58.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/%E5%90%B4%E6%81%A9%E8%BE%BE%E8%80%81%E5%B8%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0C1-%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0/</loc>
+        <lastmod>2020-01-30T04:23:06.327Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://yoursite-url/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8Bhexo%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/</loc>
+        <lastmod>2020-01-23T09:23:26.877Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
